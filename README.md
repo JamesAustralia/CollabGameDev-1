@@ -1,2 +1,0 @@
-# CollabGameDev
-Unreal Engine project
